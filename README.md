@@ -1,2 +1,2 @@
-# tampilan-termux-v2
+# TampilanTermux
 Ubah tampilan termux versi 2
