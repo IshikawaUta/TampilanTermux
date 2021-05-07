@@ -1,2 +1,6 @@
 # TampilanTermux
-Ubah tampilan termux versi 2
+pkg install git -y
+pkg install python2 -y
+git clone https://github.com/Eka09/TampilanTermux
+cd TampilanTermux
+ls
